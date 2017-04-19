@@ -20,7 +20,7 @@ public class TodoDao {
 		final Todo todo = new Todo(){{
 			setId(idSeq++);
 			setName("Complete a Todo list");
-			setOwner("Allen");
+			setOwner("Allendfdsq");
 			setPriority("High");
 		}};
 		todos = new ArrayList<Todo>(){{
